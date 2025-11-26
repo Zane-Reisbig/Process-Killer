@@ -1,0 +1,22 @@
+// ExpressVPN.SystemService.exe
+// ExpressVPN.VpnService.exe
+// ExpressVPN.BrowserHelper.exe
+// ExpressVPN.AppService.exe
+// ExpressVPNNotificationService.exe
+// mspaint.exe
+gamingservices.exe
+gamingservicesnet.exe
+XboxPcAppFT.exe
+XboxPcTray.exe
+LeapSvc.exe
+Corsair.Service.CpuIdRemote64.exe
+Corsair.Service.exe
+EtwHostServiceUpdater.exe
+OVRServer_x64.exe
+OVRServiceLauncher.exe
+OVRRedir.exe
+OculusClient.exe
+pservice.exe
+pia-service.exe
+mDNSResponder.exe
+CorsairGamingAudioCfgService64.exe
