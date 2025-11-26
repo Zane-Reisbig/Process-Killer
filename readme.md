@@ -6,7 +6,7 @@ It uses the name of the executable file as you can see in [processList.txt](./pr
 Currently [processList.txt](./processList.txt) contains a list of things that _were_ running on _my_ computer.\
 All the things in there should be running at some point, but that point is not **now**.
 
-\* No dependands, ctypes and Windows dll's
+\* No dependands, ctypes and Windows dll's\
 \* There are no easter eggs in the source code.
 
 # Features
