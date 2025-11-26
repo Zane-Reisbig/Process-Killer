@@ -30,4 +30,4 @@ All the things in there should be running at some point, but that point is not *
         <br/>
 
 3.  The InputBox at the top of this Window contains the _**FILE NAME**_ we need
-    -   The file name is also the name of the window _**MINUS**_ the "`Properties`"
+    -   The file name is also the name of the window _**MINUS**_ the string "`Properties`"
