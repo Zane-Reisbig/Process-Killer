@@ -4,7 +4,7 @@ It just kills processes as they appear on your computer.\
 It uses the name of the executable file as you can see in [processList.txt](./processList.txt).
 
 Currently [processList.txt](./processList.txt) contains a list of things that _were_ running on _my_ computer.\
-All the things in there should be running at some point, but that point is not **now**.\
+All the things in there should be running at some point, but that point is not **now**.
 
 \* There are no easter eggs in the source code.
 
