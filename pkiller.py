@@ -36,7 +36,7 @@ class UACHandler:
     __ShellExecuteW.restype = wintypes.HINSTANCE
     ###
 
-    ### kernal32
+    ### kernel32
     __kernel32 = ctypes.windll.kernel32
 
     __OpenProcess = (
