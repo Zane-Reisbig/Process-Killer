@@ -18,8 +18,8 @@ All the things in there should be running at some point, but that point is not *
 
 # Explanation
 
-Gaming Services might need to be running when I'm on the Xbox app doing stuff, but otherwise, it does not need 13MB of ram and a constant 5mb up/down internet connection while idle.
-The same can be applied to everything else on that [list](./processList.txt), execept mspaint which is there to test with.
+Gaming Services might need to be running when I'm on the Xbox app doing stuff, but otherwise, it does not need 13MB of ram and a constant 5mb up/down internet connection while idle.\
+The same can be applied to everything else on that [list](./processList.txt), execept mspaint which is there to test with.\
 I can appreciate that these procesess do things that I'm not aware of, but they can do their mischievous deeds when I allow them to, ya' know? 
 
 # Helpful Info
