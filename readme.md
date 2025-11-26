@@ -20,8 +20,8 @@ All the things in there should be running at some point, but that point is not *
 
 Gaming Services might need to be running when I'm on the Xbox app doing stuff, but otherwise, it does not need 13MB of ram and a constant 5mb up/down internet connection while idle.\
 The same can be applied to everything else on that [list](./processList.txt).\
-I can appreciate that these procesess do things that I'm not aware of-\
-so they can do their mischievous little deeds when I let them, ya' know?
+\
+I can appreciate that these procesess do things that I'm not aware of, so they can do their mischievous little deeds when I let them, ya' know?
 
 # Helpful Info
 
